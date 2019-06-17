@@ -1,0 +1,19 @@
+{
+  "name": "christian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ss",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian231197/Apires.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Christian231197/Apires/issues"
+  },
+  "homepage": "https://github.com/Christian231197/Apires#readme",
+  "description": ""
+}
